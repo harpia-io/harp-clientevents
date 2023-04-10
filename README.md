@@ -1,4 +1,6 @@
-## Harp Client Events Service
+## Open Source Incident Management system - Harp Client Events Service
+
+### Full info about Project - https://github.com/harpia-io/harpia
 
 ### Intro
 
